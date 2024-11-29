@@ -76,3 +76,4 @@ print("Hello World")
 
 #8 Line agar konflik
 print("Tedy Sukma Permana")
+print("Permana Sukma Tedy")
