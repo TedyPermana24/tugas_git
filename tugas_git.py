@@ -73,3 +73,6 @@ for i,j in data_panen.items() :
 
 #7 Baris Baru
 print("Hello World")
+
+#8 Line agar konflik
+print("Permana Sukma Tedy")
