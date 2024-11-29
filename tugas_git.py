@@ -70,3 +70,6 @@ for i,j in data_panen.items() :
         print(f"{i} yaitu di {j['nama_lokasi']}, memerlukan perhatian khusus")
     else :
         print(f"{i} yaitu di {j['nama_lokasi']}, kondisi baik")
+
+#7 Baris Baru
+print("Hello World")
